@@ -19,3 +19,4 @@ print("fin del bucle")
 
 #ouput
 print("minombre:",mi_nombre)
+
